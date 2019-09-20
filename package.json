@@ -1,5 +1,5 @@
 {
-  "name": "react-styleguidist-example",
+  "name": "documentation-front-fakirio",
   "description": "React styleguidist example",
   "version": "1.0.0",
   "private": true,
@@ -34,5 +34,6 @@
     "start": "styleguidist server",
     "styleguide": "styleguidist server",
     "styleguide:build": "styleguidist build"
-  }
+  },
+  "keywords": []
 }
